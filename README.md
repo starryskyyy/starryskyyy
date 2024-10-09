@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Elizaveta Vygovskaia or @starryskyyy<br>👀 I’m interested in coding, gaming, and travelling.<br>🚀 I am a dedicated learner and problem-solver, who thrives on taking on new challenges and discovering innovative solutions. I am also a collaborative and supportive team player, who enjoys working with other professionals in the tech industry and contributing to the ongoing evolution of this dynamic field. <br>📫 How to reach me: vygovskaia.e@gmail.com<br><br>
+👋 Hi, I’m Elizaveta Vygovskaia or @starryskyyy<br>👀 I’m interested in coding, gaming, and travelling.<br>🚀 I am a dedicated learner and problem-solver, who thrives on taking on new challenges and discovering innovative solutions. I am also a collaborative and supportive team player, who enjoys working with other professionals in the tech industry.
 ![i do tech panda](https://media0.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e47ukhdz5stkneoc4jvs2nq5obpa2hoh1txch68cz7g&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🌐 Socials:
